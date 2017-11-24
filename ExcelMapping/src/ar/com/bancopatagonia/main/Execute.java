@@ -9,7 +9,7 @@ import ar.com.bancopatagonia.util.Utilities;
 
 public class Execute {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		Properties prop = new Properties();
 		InputStream input = null;
 		

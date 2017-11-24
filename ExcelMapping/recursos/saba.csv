@@ -1,2 +1,3 @@
 Session ID,Person ID,Operator,Period Number,Working hours,Non working hours,Enrollment date,Training deduction ID,Cancellation date,Cancellation Reason ID,Priority group ID,Subsidied,Finance Method ID,Training Location Type ID,Training Level ID,Training Objective ID,Comment
-Alphanumeric 85,Alphanume,1,1234,9999999.99,9999999.99,2001-05-01 00:00:00,Alp,2011-05-01 00:00:00,Alphanume,Alp,A,Alphanume,Al,Alp,Alp,Alphanumeric 254
+Session ID 85,Person1,1,1234,1099999.99,1999999.99,15/03/2015,Al1,15/01/2015,Alphanum1,Al1,A,Alphanum1,A1,Al1,Al1,Comment 251
+Session ID 86,Person2,2,2234,2099999.99,2999999.99,25/03/2015,Al2,15/02/2015,Alphanum2,Al2,B,Alphanum2,A2,Al2,Al2,Comment 252
