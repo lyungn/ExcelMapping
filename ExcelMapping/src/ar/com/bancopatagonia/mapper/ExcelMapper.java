@@ -138,7 +138,7 @@ public class ExcelMapper {
 			/* Fin de cada linea del archivo csv*/
 			System.out.println("-- Fin de cada linea del archivo csv --" );
 		}
-		System.out.println("Fin de Mapping del CSV a EXCEL - " + new Date() );
+		System.out.println("Fin de Mapping del CSV a EXCEL - " + Utilities.dataTimeString());
 		csvMapReader.close();
 		Utilities.createOutExcel(wb, resultExcelPath);
 	}

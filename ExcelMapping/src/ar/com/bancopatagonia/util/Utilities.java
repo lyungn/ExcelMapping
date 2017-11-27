@@ -19,6 +19,13 @@ public class Utilities {
 		String datestring = dateFormat.format(date);
 		return datestring;
 	}
+	
+	public static String dataTimeString() {
+		DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd-HH:mm:ss");
+		Date date = new Date();
+		String datestring = dateFormat.format(date);
+		return datestring;
+	}
 
 	public static void fileCopyer(String fileasked, String fName) {
 
